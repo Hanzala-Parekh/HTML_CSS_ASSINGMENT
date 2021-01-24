@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.topbar{
+    display: flex;
+    background-color: rgb(37, 36, 36);
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+            
+}
+.social-link{
+    margin-left: 20px;
+    background-color: rgb(70, 66, 66);
+    border-radius: 100%;
+    padding: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+     align-items: center;
+}
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+    text-decoration: none;
+    scroll-behavior: smooth;
+
+}
